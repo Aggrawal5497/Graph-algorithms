@@ -11,6 +11,8 @@ Graphs are mathematical structures that represent pairwise relationships between
 ### Matrix Form
 Adjacency Matrix is a 2D array of size V x V where V is the number of vertices in a graph. 
 
+### Graph Used
+![Graph Used](./images/graph.png)
 
 ### Adjacency List
 An adjacency list is a collection of unordered lists used to represent a finite graph. Each list describes the set of neighbors of a vertex in the graph. ```the code uses adjancency list```
